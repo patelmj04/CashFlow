@@ -1,0 +1,2 @@
+# CashFlow
+ It is a tool designed to help individuals monitor and manage their financial transactions efficiently. It allows users to record income and expenses, categorize spending, analyze financial trends, and set budgeting goals. With features like dashboards, charts, and reminders, an expense tracker provides insights into spending habits, helping users make informed financial decisions and stay within budget.
