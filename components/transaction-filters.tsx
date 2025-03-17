@@ -56,9 +56,9 @@ export function TransactionFilters() {
             <SelectItem value="all">All Amounts</SelectItem>
             <SelectItem value="income">Income</SelectItem>
             <SelectItem value="expense">Expenses</SelectItem>
-            <SelectItem value="low">Under $50</SelectItem>
-            <SelectItem value="medium">$50 - $200</SelectItem>
-            <SelectItem value="high">Over $200</SelectItem>
+            <SelectItem value="low">Under ₹50</SelectItem>
+            <SelectItem value="medium">₹50 - ₹200</SelectItem>
+            <SelectItem value="high">Over ₹200</SelectItem>
           </SelectContent>
         </Select>
         <Button size="sm" variant="outline" className="h-9">
