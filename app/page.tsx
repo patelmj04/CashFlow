@@ -202,7 +202,8 @@ export default function Home() {
             <div className="mt-12 rounded-lg border bg-card p-2 shadow-lg">
               <div className="overflow-hidden rounded-lg border shadow-sm">
                 <Image
-                  src="/placeholder.svg?height=600&width=1200"
+                  src="/2placeholder.jpg?height=600&width=1200"
+                  // src="/placeholder.webp?height=600&width=1200"
                   width={1200}
                   height={600}
                   alt="Dashboard screenshot"
@@ -235,7 +236,7 @@ export default function Home() {
                       <span className="text-lg font-bold text-primary">JD</span>
                     </div>
                     <div>
-                      <CardTitle>John Doe</CardTitle>
+                      <CardTitle>Mit Patel</CardTitle>
                       <CardDescription>Freelancer</CardDescription>
                     </div>
                   </div>
@@ -259,7 +260,7 @@ export default function Home() {
                       <span className="text-lg font-bold text-primary">SJ</span>
                     </div>
                     <div>
-                      <CardTitle>Sarah Johnson</CardTitle>
+                      <CardTitle>Harshi Patel</CardTitle>
                       <CardDescription>Small Business Owner</CardDescription>
                     </div>
                   </div>
@@ -283,7 +284,7 @@ export default function Home() {
                       <span className="text-lg font-bold text-primary">MP</span>
                     </div>
                     <div>
-                      <CardTitle>Michael Patel</CardTitle>
+                      <CardTitle>Ankit Patel</CardTitle>
                       <CardDescription>Student</CardDescription>
                     </div>
                   </div>
