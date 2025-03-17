@@ -8,7 +8,7 @@ import { Card, CardContent, CardDescription, CardFooter, CardHeader, CardTitle }
 export default function Home() {
   return (
     <div className="flex min-h-screen flex-col">
-      <header className="sticky top-0 z-50 w-full border-b border-gray-800 bg-black/100 backdrop-blur supports-[backdrop-filter]:bg-black/90">
+      <header className="sticky top-0 z-50 w-full border-b border-gray-800 bg-black/100 backdrop-blur supports-[backdrop-filter]:bg-black/80">
         <div className="container flex h-16 items-center justify-between">
           <div className="flex items-center gap-2">
             <Wallet className="h-6 w-6 text-primary" />
