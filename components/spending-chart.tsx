@@ -63,7 +63,7 @@ export function SpendingChart({ className, ...props }: SpendingChartProps) {
                       return (
                         <ChartTooltipContent>
                           <div className="text-sm font-medium">{payload[0].payload.name}</div>
-                          <div className="text-sm font-bold">${payload[0].value}</div>
+                          <div className="text-sm font-bold">₹{payload[0].value}</div>
                         </ChartTooltipContent>
                       )
                     }

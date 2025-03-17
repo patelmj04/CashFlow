@@ -11,7 +11,7 @@ export function DashboardCards() {
           <DollarSign className="h-4 w-4 text-primary" />
         </CardHeader>
         <CardContent>
-          <div className="text-2xl font-bold">$2,850.00</div>
+          <div className="text-2xl font-bold"> ₹2,850.00</div>
           <p className="text-xs text-muted-foreground">+20.1% from last month</p>
         </CardContent>
       </Card>
@@ -21,7 +21,7 @@ export function DashboardCards() {
           <ArrowUpIcon className="h-4 w-4 text-income" />
         </CardHeader>
         <CardContent>
-          <div className="text-2xl font-bold text-income">$4,200.00</div>
+          <div className="text-2xl font-bold text-income">₹4,200.00</div>
           <p className="text-xs text-muted-foreground">+10.5% from last month</p>
         </CardContent>
       </Card>
@@ -31,7 +31,7 @@ export function DashboardCards() {
           <ArrowDownIcon className="h-4 w-4 text-expense" />
         </CardHeader>
         <CardContent>
-          <div className="text-2xl font-bold text-expense">$1,350.00</div>
+          <div className="text-2xl font-bold text-expense">₹1,350.00</div>
           <p className="text-xs text-muted-foreground">-5.2% from last month</p>
         </CardContent>
       </Card>
