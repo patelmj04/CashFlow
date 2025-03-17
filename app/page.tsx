@@ -347,6 +347,7 @@ export default function Home() {
                     </li>
                   </ul>
                 </CardContent>
+                <br></br>
                 <CardFooter>
                   <Link href="/dashboard" className="w-full">
                     <Button className="w-full bg-white text-black hover:bg-gray-200">Get Started</Button>
