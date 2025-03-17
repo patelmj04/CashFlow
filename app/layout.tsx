@@ -7,9 +7,9 @@ import { ThemeProvider } from "@/components/theme-provider"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "Personal Expense Tracker",
-  description: "Track and manage your personal expenses with ease",
-    generator: 'v0.dev'
+  title: "CashFlow Tracker",
+  description: "Manage and Track your personal expenses with ease",
+    generator: 'Mj'
 }
 
 export default function RootLayout({
