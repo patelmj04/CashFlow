@@ -3,7 +3,7 @@
 CashFlow is a financial management tool designed to help individuals efficiently monitor and manage their financial transactions.
 
 
-# Website Link
+# Website Preview
 
 ![image](https://github.com/user-attachments/assets/149be146-11d8-4c64-bfaa-7572a8272085)
 
